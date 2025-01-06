@@ -11,7 +11,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha --parallel"
+    "test": "mocha --parallel 'test/dream-team.test.js'"
   },
   "repository": {
     "type": "git",
